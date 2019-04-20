@@ -22,7 +22,7 @@ class SmurfCard extends Component {
   close = {
     position: 'absolute',
     top: '5px',
-    right: '-15px',
+    right: '5px',
     cursor: 'pointer',
     color: 'red'
   }
